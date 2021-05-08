@@ -1,0 +1,23 @@
+{
+  "name": "campbogor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "arso",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "camp",
+    "heroku"
+  ],
+  "description": "project ramadhan",
+  "engines": {
+    "node": "16.0.0"
+  }
+}
